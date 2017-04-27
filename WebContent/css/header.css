@@ -1,0 +1,15 @@
+#divLogin {
+	border:solid 2px #000000; background:#fff; width:250px; height:90px;
+	right:0%; position:fixed;
+}
+#divAdmin {
+	border:solid 2px #000000; background:#fff; width:250px; height:90px;
+	right:0%; position:fixed;
+}
+#divActivity {
+	border:solid 2px #000000; background:#fff; width:250px; height:90px;
+	right:0%; position:fixed;
+}
+#text {
+	width:100px;
+}

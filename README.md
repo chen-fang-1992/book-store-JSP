@@ -1,1 +1,1 @@
-# book-store-JSP
+<div><div>back-end: java, jdk 1.8.0_121</div><div>front-end: html 5, javascript, css</div><div>server: tomcat 8.0</div><div>database: mysql 5.6</div></div>
